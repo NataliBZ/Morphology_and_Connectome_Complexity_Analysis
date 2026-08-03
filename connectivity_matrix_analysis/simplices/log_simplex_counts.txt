@@ -1,0 +1,36 @@
+Running rat
+Loading T_to_E for rat
+Loading E_to_E for rat
+Functional simplex counts took 1.722872018814087 seconds
+Running ER
+ER simplex counts took 1.00 minutes, for 30 seeds
+Running CM
+CM simplex counts took 0.76 minutes, for 30 seeds
+Running bishuffuled
+bishuffuled simplex counts took 0.87 minutes, for 30 seeds
+Running DD2
+DD2 simplex counts took 0.95 minutes, for 30 seeds
+Running E_to_E
+E_to_E simplex counts took 0.62 minutes, for 30 seeds
+Running T_to_E
+T_to_E simplex counts took 0.70 minutes, for 30 seeds
+Done with rat in 4.95 minutes
+========================================
+Running human
+Loading T_to_E for human
+Loading E_to_E for human
+Functional simplex counts took 61.42277193069458 seconds
+Running ER
+ER simplex counts took 1.16 minutes, for 30 seeds
+Running CM
+CM simplex counts took 0.91 minutes, for 30 seeds
+Running bishuffuled
+bishuffuled simplex counts took 9.59 minutes, for 30 seeds
+Running DD2
+DD2 simplex counts took 1.26 minutes, for 30 seeds
+Running E_to_E
+E_to_E simplex counts took 0.88 minutes, for 30 seeds
+Running T_to_E
+T_to_E simplex counts took 2.56 minutes, for 30 seeds
+Done with human in 17.42 minutes
+========================================
