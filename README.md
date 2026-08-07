@@ -6,6 +6,7 @@ Code and analysis accompanying the paper:
 
 **Authors:** Natali Barros-Zulaica, Daniela Egas Santander, Lida Kanari, Ying Shi, Rodrigo Perin, Maurizio Pezzoli, Ruth Benavides-Piccione, Javier DeFelipe, Christiaan P. J. de Kock, Idan Segev, Henry Markram, and Michael W. Reimann.
 
+[![DOI](https://img.shields.io/badge/DOI-10.64898%2F2026.02.12.705493-blue)](https://doi.org/10.64898/2026.02.12.705493)
 ---
 
 ## Overview
