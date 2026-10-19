@@ -162,7 +162,7 @@ If you use this code, please cite the paper:
 
 ## License
 
-Please add the appropriate license for this repository (CCBY- v0.4).
+CCBY- v0.4
 
 ---
 
