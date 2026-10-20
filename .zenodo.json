@@ -23,6 +23,6 @@
   "related_identifiers": [
     {"identifier": "10.64898/2026.02.12.705493", "relation": "isSupplementTo", "scheme": "doi", "resource_type": "publication-preprint"},
     {"identifier": "https://github.com/NataliBZ/Human_connectivity_paper", "relation": "isSupplementTo", "scheme": "url"},
-    {"identifier": "https://zenodo.org/records/21216278", "relation": "isRelatedTo", "scheme": "url", "resource_type": "dataset"}
+    {"identifier": "https://zenodo.org/records/21216278", "relation": "references", "scheme": "url", "resource_type": "dataset"}
   ]
 }
