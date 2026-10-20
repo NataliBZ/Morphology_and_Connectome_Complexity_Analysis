@@ -1,0 +1,63 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software archive."
+title: "Code for: Uncovering the Basis of Human Connectome Complexity: The Role of Neuronal Morphology"
+type: software
+version: v1.0.0
+license: CC-BY-4.0
+repository-code: "https://github.com/NataliBZ/Human_connectivity_paper"
+authors:
+  - family-names: Barros-Zulaica
+    given-names: Natalí
+    affiliation: Open Brain Institute
+  - family-names: Egas Santander
+    given-names: Daniela
+  - family-names: Kanari
+    given-names: Lida
+  - family-names: Shi
+    given-names: Ying
+  - family-names: Perin
+    given-names: Rodrigo
+  - family-names: Pezzoli
+    given-names: Maurizio
+  - family-names: Benavides-Piccione
+    given-names: Ruth
+  - family-names: DeFelipe
+    given-names: Javier
+  - family-names: de Kock
+    given-names: Christiaan P. J.
+  - family-names: Segev
+    given-names: Idan
+  - family-names: Markram
+    given-names: Henry
+  - family-names: Reimann
+    given-names: Michael W.
+preferred-citation:
+  type: article
+  title: "Uncovering the Basis of Human Connectome Complexity: The Role of Neuronal Morphology"
+  doi: "10.64898/2026.02.12.705493"
+  year: 2026
+  authors:
+    - family-names: Barros-Zulaica
+      given-names: Natalí
+    - family-names: Egas Santander
+      given-names: Daniela
+    - family-names: Kanari
+      given-names: Lida
+    - family-names: Shi
+      given-names: Ying
+    - family-names: Perin
+      given-names: Rodrigo
+    - family-names: Pezzoli
+      given-names: Maurizio
+    - family-names: Benavides-Piccione
+      given-names: Ruth
+    - family-names: DeFelipe
+      given-names: Javier
+    - family-names: de Kock
+      given-names: Christiaan P. J.
+    - family-names: Segev
+      given-names: Idan
+    - family-names: Markram
+      given-names: Henry
+    - family-names: Reimann
+      given-names: Michael W.
